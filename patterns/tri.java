@@ -120,33 +120,6 @@ output:Enter no of rows:5
 16      17      18      19      20
 21      22      23      24      25
 */
-
-
-
-
-
-/* 
-Scanner sc=new Scanner(System.in);
-int n=sc.nextInt();
-for(int i=1;i<6;i++)
-{
-for(int j=1;j<6;j++)
-{
-System.out.print(i+" " );
-}
-System.out.println(" ");
-}
-}
-}
-output:enter no of rows:
-5
-1 1 1 1 1
-2 2 2 2 2
-3 3 3 3 3
-4 4 4 4 4
-5 5 5 5 5 */
-
-
 /* 
 Scanner sc=new Scanner(System.in);
 System.out.println("enter number:");
